@@ -2,12 +2,12 @@
 
 First make the script executable:
 
-```
+```bash
 chmod +x scripts/pipeline.sh
 ```
 
 Run the pipeline:
 
-```
+```bash
 ./scripts/pipeline.sh
 ```
