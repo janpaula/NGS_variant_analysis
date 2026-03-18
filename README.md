@@ -120,7 +120,7 @@ Variant analysis and genomic visualization were performed in **R** using:
 
 Genome coverage across the reference sequence.
 
-![Coverage](figures/coverage_plot.png)
+![Coverage](figures/GenomeCoveragePlot.png)
 
 ---
 
@@ -128,7 +128,7 @@ Genome coverage across the reference sequence.
 
 Quality scores for detected variants.
 
-![Manhattan](figures/manhattan_plot.png)
+![Manhattan](figures/ManhattanPlotTypes.png)
 
 ---
 
@@ -136,7 +136,7 @@ Quality scores for detected variants.
 
 Visualization of variants and coding regions along the genome.
 
-![Genome Track](figures/genome_tracks.png)
+![Genome Track](figures/GenomicTracksPlot.png)
 
 ---
 
@@ -144,7 +144,7 @@ Visualization of variants and coding regions along the genome.
 
 Manual inspection of variant positions.
 
-![IGV](figures/igv_variants.png)
+![IGV](figures/IGV.png)
 
 ---
 
