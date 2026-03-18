@@ -16,3 +16,18 @@ fasterq-dump SRR1972877
 ```
 
 After downloading, run the trimming step using fastp as described in the pipeline.
+
+# Running the Pipeline
+
+First make the script executable:
+
+```bash
+chmod +x scripts/pipeline.sh
+```
+
+Run the pipeline:
+
+```bash
+./scripts/pipeline.sh
+```
+
